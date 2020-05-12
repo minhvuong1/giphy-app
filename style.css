@@ -1,0 +1,8 @@
+main {
+    display: grid;
+}
+
+img {
+    border: 1px solid gray;
+    height: 200px;
+}
